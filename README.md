@@ -1,4 +1,4 @@
-# quiz
+# quiz app to learn vue
 
 ## Project setup
 ```
